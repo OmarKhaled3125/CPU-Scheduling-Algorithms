@@ -1,0 +1,4 @@
+Operating_Systems_Project_2024.Process
+Operating_Systems_Project_2024.SchedulingAlgorithms
+operating_systems_project_2024.Operating_Systems_Project_2024
+Operating_Systems_Project_2024.ProcessState
